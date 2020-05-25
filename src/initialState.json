@@ -1,0 +1,72 @@
+{
+  "currentUserId": "u2",
+  "likes": [
+    { "movieId": "m1", "userId": "u1", "value": 1 },
+    { "movieId": "m1", "userId": "u2", "value": 1 },
+    { "movieId": "m11", "userId": "u2", "value": 1 },
+    { "movieId": "m1", "userId": "u3", "value": 1 },
+    { "movieId": "m3", "userId": "u3", "value": -1 }
+  ],
+  "movies": [
+    {
+      "movieId": "m1",
+      "name": "Indiana Jones and the Fate of Atlantis",
+      "year": 1997
+    },
+    {
+      "movieId": "m2",
+      "name": "The Dark Knight",
+      "year": 2008
+    },
+    {
+      "movieId": "m3",
+      "name": "Matrix",
+      "year": 1999
+    },
+    {
+      "movieId": "m4",
+      "name": "Fight Club",
+      "year": 1999
+    },
+    {
+      "movieId": "m5",
+      "name": "The Secret of My Success",
+      "year": 1987
+    },
+    {
+      "movieId": "m6",
+      "name": "Weird Science",
+      "year": 1985
+    },
+    {
+      "movieId": "m7",
+      "name": "iSteve",
+      "year": 2013
+    },
+    {
+      "movieId": "m8",
+      "name": "One, Two, Three",
+      "year": 1961
+    },
+    {
+      "movieId": "m9",
+      "name": "How to Murder Your Wife",
+      "year": 1965
+    },
+    {
+      "movieId": "m10",
+      "name": "Karate Kid",
+      "year": 1984
+    },
+    {
+      "movieId": "m11",
+      "name": "Spaceballs",
+      "year": 1987
+    }
+  ],
+  "users": [
+    { "userId": "u1", "name": "Mary" },
+    { "userId": "u2", "name": "John" },
+    { "userId": "u3", "name": "Perry" }
+  ]
+}
